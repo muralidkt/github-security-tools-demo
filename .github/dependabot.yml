@@ -10,6 +10,6 @@ updates:
     target-branch: "develop"
     open-pull-requests-limit: 10
     reviewers:
-      - RasaHQ/atom-squad
+      - RasaHQ/atom-squad-test
     labels:
       - type:dependencies
